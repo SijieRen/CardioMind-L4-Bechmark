@@ -33,7 +33,7 @@ Each vignette is annotated with:
 - **Reproducible & extensible**: Open‑source code and standardized data format enable community benchmarking and iteration.
 
 ## Getting Started
-See the [Quick Start](docs/quickstart.md) guide for installation, data preparation, and running evaluations.
+See the [Quick Start](https://github.com/SijieRen/CardioMind-L4-Bechmark/blob/main/Evaluation/Readme_en.md) guide for installation, data preparation, and running evaluations.
 
 ## Citation
 If you use CardioBench in your research, please cite our paper (preprint link).
